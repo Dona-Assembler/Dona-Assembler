@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, software security and plants.
 - 🌱 I’m currently learning javascript and python.
 - 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me, don't.
+- 📫 Want to reach me? Don't, seriously.
