@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dona-Assembler
+- 👋 Hi, I’m @Dona-Assembler. It's supposed to be Doña-Assembler, but you know, hispanic.
 - 👀 I’m interested in coding, software security and plants.
 - 🌱 I’m currently learning javascript and python.
 - 💞️ I’m looking to collaborate on new projects.
